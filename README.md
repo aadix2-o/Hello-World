@@ -1,2 +1,8 @@
-# Hello-World
-first github file
+// Hello-World
+class Main
+{
+public static void main(String []args)
+{  
+         System.out.println("hey git-hub");
+}
+}
